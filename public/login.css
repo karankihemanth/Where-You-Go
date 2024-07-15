@@ -136,7 +136,6 @@ button {
     text-transform: uppercase;
     transition: transform 80ms ease-in;
 }
-
 button.ghost {
     background-color: transparent;
     border-color: #ffffff;
@@ -153,7 +152,7 @@ a:hover {
     color: #ff4b2b; /* Red color on hover */
 }
 button:hover {
-    background-color: #ff416c;
+    background-color:black;
     border-color: #ff416c;
 }
 
